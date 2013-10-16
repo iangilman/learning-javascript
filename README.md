@@ -21,7 +21,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/iangilman/js-toys
 * http://www.ellipsetours.com/demos/
 * https://www.khanacademy.org/profile/iangilman/programs
-* https://github.com/openseadragon/openseadragon/
+* https://github.com/openseadragon/openseadragon/issues?labels=good+first+bug&page=1&state=open
 * https://github.com/rdio/jsapi-examples
 
 # Libraries
