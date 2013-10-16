@@ -5,15 +5,18 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # Lessons
 
 * https://www.khanacademy.org/cs/programming
-* http://www.jsdares.com/
 * http://www.codecademy.com/tracks/javascript
+* http://www.codecademy.com/tracks/web
+* http://www.codecademy.com/tracks/jquery
+* http://www.jsdares.com/
 * http://nodeschool.io/
 
 # Manuals
 
 * http://eloquentjavascript.net/
-* http://superherojs.com/
 * https://developer.mozilla.org/en-US/learn/javascript
+* http://www.impressivewebs.com/jquery-tutorial-for-beginners/
+* http://superherojs.com/
 
 # Code to Fiddle With
 
@@ -27,7 +30,11 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 # Libraries
 
-* http://mrdoob.github.io/three.js/
-* http://lesscss.org/
-* http://documentcloud.github.io/underscore/
 * http://jquery.com/
+* http://documentcloud.github.io/underscore/
+* http://lesscss.org/
+* http://mrdoob.github.io/three.js/
+
+# Meetups
+
+* http://javascript.meetup.com/cities/us/98108/ (Seattle)
