@@ -28,6 +28,10 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/openseadragon/openseadragon/issues?labels=good+first+bug&page=1&state=open
 * https://github.com/rdio/jsapi-examples
 
+# Project Ideas
+
+* https://github.com/rdio/api/issues?labels=project+ideas&state=open (Rdio API project ideas)
+
 # Libraries
 
 * http://jquery.com/
