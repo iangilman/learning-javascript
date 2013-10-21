@@ -15,6 +15,8 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * http://eloquentjavascript.net/
 * https://developer.mozilla.org/en-US/learn/javascript
+* https://developer.mozilla.org/en-US/learn/css
+* https://developer.mozilla.org/en-US/learn/html
 * http://www.impressivewebs.com/jquery-tutorial-for-beginners/
 * http://superherojs.com/
 
@@ -38,6 +40,12 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://documentcloud.github.io/underscore/
 * http://lesscss.org/
 * http://mrdoob.github.io/three.js/
+
+# Hosting
+
+* https://neocities.org/
+* http://pages.github.com/
+* http://www.site44.com/
 
 # Meetups
 
