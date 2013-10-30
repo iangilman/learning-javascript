@@ -50,3 +50,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # Meetups
 
 * http://javascript.meetup.com/cities/us/98108/ (Seattle)
+
+# Design
+
+* http://www.hackdesign.org/
