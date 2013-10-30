@@ -24,6 +24,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * http://codepen.io/
 * https://github.com/iangilman/js-toys
+* https://github.com/iangilman/simple-webapp-boilerplate
 * http://www.ellipsetours.com/demos/
 * https://www.khanacademy.org/profile/iangilman/programs
 * https://www.khanacademy.org/cs/browse-programs
