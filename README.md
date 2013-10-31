@@ -10,6 +10,9 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://www.codecademy.com/tracks/jquery
 * http://www.jsdares.com/
 * http://nodeschool.io/
+* https://github.com/liammclennan/JavaScript-Koans
+* https://github.com/mrdavidlaing/javascript-koans
+* http://javascript.didacto.net/
 
 # Manuals
 
