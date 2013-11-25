@@ -23,6 +23,10 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://www.impressivewebs.com/jquery-tutorial-for-beginners/
 * http://superherojs.com/
 
+# General
+
+* [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
+
 # Code to Fiddle With
 
 * http://codepen.io/
@@ -44,6 +48,11 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://documentcloud.github.io/underscore/
 * http://lesscss.org/
 * http://mrdoob.github.io/three.js/
+
+# Regular Expressions
+
+* http://regexone.com/ (interactive tutorial)
+* http://regexpal.com/
 
 # Hosting
 
