@@ -52,7 +52,8 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # Regular Expressions
 
 * http://regexone.com/ (interactive tutorial)
-* http://regexpal.com/
+* http://regexpal.com/ (try out your regex)
+* http://www.regexper.com/ (diagrams your regex)
 
 # Hosting
 
