@@ -60,6 +60,10 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://neocities.org/
 * http://pages.github.com/
 * http://www.site44.com/
+ 
+# GitHub
+
+* https://help.github.com/articles/set-up-git
 
 # Meetups
 
