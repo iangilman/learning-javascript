@@ -64,6 +64,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # GitHub
 
 * https://help.github.com/articles/set-up-git
+* [https://gist.github.com/iangilman/1097883](Ian's Git Cheat Sheet) (just random bits I've found useful)
 
 # Meetups
 
