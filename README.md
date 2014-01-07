@@ -26,6 +26,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # General
 
 * [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
+* [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
 
 # Code to Fiddle With
 
