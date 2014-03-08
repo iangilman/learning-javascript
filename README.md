@@ -22,6 +22,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://developer.mozilla.org/en-US/learn/html
 * http://www.impressivewebs.com/jquery-tutorial-for-beginners/
 * http://superherojs.com/
+* http://jsforcats.com/
 
 # General
 
@@ -84,4 +85,5 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * [Apps To Get Your Kids Coding On The iPad, Part 2](http://ipadinsight.com/ipad-app-reviews/apps-to-get-your-kids-coding-on-the-ipad-part-2/)
 * http://coderdojo.com/
 * http://scratch.mit.edu/
+* http://www.thinkfun.com/robotturtles/
 
