@@ -13,6 +13,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/liammclennan/JavaScript-Koans
 * https://github.com/mrdavidlaing/javascript-koans
 * http://javascript.didacto.net/
+* http://www.crunchzilla.com/
 
 # Manuals
 
