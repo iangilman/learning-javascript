@@ -24,6 +24,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://www.impressivewebs.com/jquery-tutorial-for-beginners/
 * http://superherojs.com/
 * http://jsforcats.com/
+* http://adamschwartz.co/magic-of-css/
 
 # General
 
