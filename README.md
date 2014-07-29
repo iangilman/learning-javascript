@@ -34,6 +34,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # Code to Fiddle With
 
 * http://codepen.io/
+* http://wavepot.com/
 * https://github.com/iangilman/js-toys
 * https://github.com/iangilman/simple-webapp-boilerplate
 * http://www.ellipsetours.com/demos/
