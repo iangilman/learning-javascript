@@ -14,6 +14,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/mrdavidlaing/javascript-koans
 * http://javascript.didacto.net/
 * http://www.crunchzilla.com/
+* https://webmaker.org/en-US/tools
 
 # Manuals
 
@@ -56,6 +57,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://documentcloud.github.io/underscore/
 * http://lesscss.org/
 * http://mrdoob.github.io/three.js/
+* http://html5gameengine.com/
 
 # Regular Expressions
 
