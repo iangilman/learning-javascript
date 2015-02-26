@@ -30,6 +30,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # General
 
 * [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
+* [Some key skills for programmer productivity](https://medium.com/@cramforce/ive-lately-been-thinking-about-what-patterns-could-explain-perceived-differences-in-productivity-77d1f52f1527)
 * [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
 
 # Code to Fiddle With
