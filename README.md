@@ -76,6 +76,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * https://help.github.com/articles/set-up-git
 * [Ian's Git Cheat Sheet](https://gist.github.com/iangilman/1097883) (just random bits I've found useful)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
 # Meetups
 
