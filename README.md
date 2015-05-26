@@ -46,6 +46,8 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/openseadragon/openseadragon/issues?labels=good+first+bug&page=1&state=open
 * https://github.com/rdio/jsapi-examples
 * https://github.com/kylestetz/lissajous
+* http://rectangleworld.com/blog/
+* http://rileyjshaw.com/terra/
 
 # Project Ideas
 
