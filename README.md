@@ -30,6 +30,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 # General
 
+* http://jstherightway.org/
 * [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
 * [Thoughts about differences in individual productivity in software engineering](https://medium.com/@cramforce/ive-lately-been-thinking-about-what-patterns-could-explain-perceived-differences-in-productivity-77d1f52f1527)
 * [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
