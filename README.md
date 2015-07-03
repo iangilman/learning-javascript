@@ -17,6 +17,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://webmaker.org/en-US/tools
 * http://blog.iangilman.com/2015/02/self-this.html
 * https://www.javascript.com/resources
+* http://learnxinyminutes.com/docs/javascript/
 
 # Manuals
 
