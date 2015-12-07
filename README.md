@@ -1,6 +1,6 @@
 # Learning JavaScript
 
-Here, I'm collecting a number of links to useful resources for learning JavaScript. If you have suggestions for additional links, let me know!
+Here, I'm collecting a number of links to useful resources for learning JavaScript (and related web tech). If you have suggestions for additional links, let me know!
 
 # Lessons
 
@@ -17,7 +17,8 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://webmaker.org/en-US/tools
 * http://blog.iangilman.com/2015/02/self-this.html
 * https://www.javascript.com/resources
-* http://learnxinyminutes.com/docs/javascript/
+* http://learnxinyminutes.com/docs/javascript
+* http://flexboxfroggy.com/
 
 # Manuals
 
