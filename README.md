@@ -93,7 +93,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 # Design
 
-* http://www.hackdesign.org/
+* https://hackdesign.org/
 
 # For Kids
 
