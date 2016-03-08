@@ -48,17 +48,16 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.khanacademy.org/profile/iangilman/programs
 * https://www.khanacademy.org/cs/browse-programs
 * https://github.com/openseadragon/openseadragon/issues?labels=good+first+bug&page=1&state=open
-* https://github.com/rdio/jsapi-examples
 * https://github.com/kylestetz/lissajous
 * http://rectangleworld.com/blog/
 * http://rileyjshaw.com/terra/
 
 # Project Ideas
 
-* https://github.com/rdio/api/issues?labels=project+ideas&state=open (Rdio API project ideas)
 * http://codeboom.wordpress.com/2012/07/30/10-mini-programming-projects/
 * http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 * http://ideasource.blankdots.com/
+* https://github.com/rdio/api/issues?labels=project+ideas&state=open (music API project ideas; originally for Rdio but applicable to other services)
 
 # Libraries
 
