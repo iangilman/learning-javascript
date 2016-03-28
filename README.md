@@ -87,6 +87,12 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * [Ian's Git Cheat Sheet](https://gist.github.com/iangilman/1097883) (just random bits I've found useful)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
+# Finding Open Source Projects to Contribute to
+
+* http://up-for-grabs.net/
+* https://yourfirstpr.github.io/
+* http://24pullrequests.com/
+
 # Meetups
 
 * http://javascript.meetup.com/cities/us/98108/ (Seattle)
