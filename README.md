@@ -2,9 +2,13 @@
 
 Here, I'm collecting a number of links to useful resources for learning JavaScript (and related web tech). If you have suggestions for additional links, let me know!
 
+* ian@iangilman.com
+* https://twitter.com/iangilman
+
 # Lessons
 
 * https://www.khanacademy.org/cs/programming
+* https://dash.generalassemb.ly/
 * http://www.codecademy.com/tracks/javascript
 * http://www.codecademy.com/tracks/web
 * http://www.codecademy.com/tracks/jquery
