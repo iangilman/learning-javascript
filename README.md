@@ -87,6 +87,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://www.site44.com/
 * http://surge.sh/
 * https://hyperdev.com/
+* https://zeit.co/now
  
 # GitHub
 
