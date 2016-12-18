@@ -43,6 +43,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * [Thoughts about differences in individual productivity in software engineering](https://medium.com/@cramforce/ive-lately-been-thinking-about-what-patterns-could-explain-perceived-differences-in-productivity-77d1f52f1527)
 * [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
 * https://www.reddit.com/r/LearnJavaScript
+* [How to get faster pull request reviews](https://github.com/kubernetes/kubernetes/blob/master/docs/devel/faster_reviews.md)
 
 # Code to Fiddle With
 
