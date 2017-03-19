@@ -58,6 +58,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/kylestetz/lissajous
 * http://rectangleworld.com/blog/
 * http://rileyjshaw.com/terra/
+* https://glitch.com/learn-to-code
 
 # Project Ideas
 
@@ -85,6 +86,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * https://neocities.org/
 * http://pages.github.com/
+* https://glitch.com/
 * http://www.site44.com/
 * http://surge.sh/
 * https://hyperdev.com/
