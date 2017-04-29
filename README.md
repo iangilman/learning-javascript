@@ -66,6 +66,9 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 * http://ideasource.blankdots.com/
 * https://github.com/rdio/api/issues?labels=project+ideas&state=open (music API project ideas; originally for Rdio but applicable to other services)
+* https://www.reddit.com/r/dailyprogrammer/
+* https://www.reddit.com/r/dailyprogrammer_ideas/
+
 
 # Libraries
 
