@@ -106,6 +106,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://up-for-grabs.net/
 * https://yourfirstpr.github.io/
 * http://24pullrequests.com/
+* https://openhatch.org/
 
 # Meetups
 
