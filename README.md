@@ -34,9 +34,12 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://developer.mozilla.org/en-US/learn/css
 * https://developer.mozilla.org/en-US/learn/html
 * http://www.impressivewebs.com/jquery-tutorial-for-beginners/
+* http://youmightnotneedjquery.com/
 * http://superherojs.com/
 * http://jsforcats.com/
 * http://adamschwartz.co/magic-of-css/
+* [ES6 Cheatsheet](https://devhints.io/es6)
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
 # General
 
