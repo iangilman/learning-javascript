@@ -113,6 +113,10 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://yourfirstpr.github.io/
 * http://24pullrequests.com/
 * https://openhatch.org/
+* https://www.codetriage.com/
+* https://github.com/MunGell/awesome-for-beginners#javascript
+* https://contributor.ninja/
+* https://opensource.guide/how-to-contribute/
 
 # Meetups
 
