@@ -65,6 +65,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://rectangleworld.com/blog/
 * http://rileyjshaw.com/terra/
 * https://glitch.com/learn-to-code
+* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code/blob/master/README.md) (Curated collection of useful Javascript snippets that you can understand in 30 seconds or less)
 
 # Project Ideas
 
