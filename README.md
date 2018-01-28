@@ -26,6 +26,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://try.jquery.com/
 * https://javascript30.com/
 * https://watchandcode.com/p/practical-javascript
+* https://www.freecodecamp.org/
 
 # Manuals
 
