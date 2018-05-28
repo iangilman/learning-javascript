@@ -75,7 +75,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.reddit.com/r/dailyprogrammer/
 * https://www.reddit.com/r/dailyprogrammer_ideas/
 
-… Or make something pretty for http://www.artywidget.com/! [https://github.com/pixfabrik/artywidget/wiki/Artwork-Guidelines](Here are the guidelines.)
+… Or make something pretty for http://www.artywidget.com/! [Here are the guidelines.](https://github.com/pixfabrik/artywidget/wiki/Artwork-Guidelines)
 
 # Libraries
 
@@ -106,7 +106,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 # GitHub
 
 * https://help.github.com/articles/set-up-git
-* [https://github.com/openseadragon/openseadragon/wiki/Making-a-Pull-Request] (Making a Pull Request) (written for OpenSeadragon, but applicable to any project)
+* [Making a Pull Request](https://github.com/openseadragon/openseadragon/wiki/Making-a-Pull-Request) (written for OpenSeadragon, but applicable to any project)
 * [Ian's Git Cheat Sheet](https://gist.github.com/iangilman/1097883) (just random bits I've found useful)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
