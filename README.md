@@ -75,7 +75,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.reddit.com/r/dailyprogrammer/
 * https://www.reddit.com/r/dailyprogrammer_ideas/
 
-… Or make something pretty for http://www.artywidget.com/! [Here are the guidelines.](https://github.com/pixfabrik/artywidget/wiki/Artwork-Guidelines)
+… Or make something pretty for [Arty Widget](http://www.artywidget.com/)! Don't forget to take a look at the [guidelines](https://github.com/pixfabrik/artywidget/wiki/Artwork-Guidelines).
 
 # Libraries
 
