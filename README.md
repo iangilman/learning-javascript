@@ -78,6 +78,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 # Libraries
 
+* https://p5js.org/
 * http://jquery.com/
 * http://documentcloud.github.io/underscore/
 * http://lesscss.org/
