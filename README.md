@@ -103,9 +103,11 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://hyperdev.com/
 * https://zeit.co/now
  
-# GitHub
+# Git / GitHub
 
 * https://help.github.com/articles/set-up-git
+* [A Stupid Simple Guide to GIT](https://medium.com/the-startup-lab-blog/stupid-simple-guide-to-git-f562df9c49ad)
+* [git - the simple guide - cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 * [Making a Pull Request](https://github.com/openseadragon/openseadragon/wiki/Making-a-Pull-Request) (written for OpenSeadragon, but applicable to any project)
 * [Ian's Git Cheat Sheet](https://gist.github.com/iangilman/1097883) (just random bits I've found useful)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
