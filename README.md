@@ -150,3 +150,4 @@ Also, I manage these two projects, and gladly welcome new contributors!
 * [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
 * [Seattle JS Hackers' resource list](https://github.com/SeattleJSHackers/seattlejshackers/blob/master/README.md)
 * [Resource list from JavaScript group on Facebook](https://www.facebook.com/notes/javascript/resources-for-learning-javascript/10151409218055343/)
+* https://coderdojo.com/resources/
