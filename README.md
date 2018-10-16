@@ -5,7 +5,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * ian@iangilman.com
 * https://twitter.com/iangilman
 
-# Lessons
+# Lessons / Challenges
 
 * https://www.khanacademy.org/cs/programming
 * https://dash.generalassemb.ly/
@@ -27,6 +27,8 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://javascript30.com/
 * https://watchandcode.com/p/practical-javascript
 * https://www.freecodecamp.org/
+* https://coderbyte.com/
+* https://www.codewars.com/
 
 # Manuals
 
