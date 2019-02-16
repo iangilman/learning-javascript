@@ -29,6 +29,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.freecodecamp.org/
 * https://coderbyte.com/
 * https://www.codewars.com/
+* https://script-8.github.io/
 
 # Manuals
 
