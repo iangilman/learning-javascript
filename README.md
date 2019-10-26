@@ -18,7 +18,6 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://blog.iangilman.com/2015/02/self-this.html
 * https://www.javascript.com/resources
 * http://learnxinyminutes.com/docs/javascript
-* http://flexboxfroggy.com/
 * http://try.jquery.com/
 * https://javascript30.com/
 * https://watchandcode.com/p/practical-javascript
@@ -27,6 +26,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.codewars.com/
 * https://script-8.github.io/
 * https://learnjavascript.online/
+* http://flexboxfroggy.com/ (for CSS, not JavaScript)
 
 # Manuals
 
