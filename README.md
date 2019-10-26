@@ -14,7 +14,6 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://nodeschool.io/
 * https://github.com/liammclennan/JavaScript-Koans
 * https://github.com/mrdavidlaing/javascript-koans
-* http://javascript.didacto.net/
 * http://www.crunchzilla.com/
 * https://webmaker.org/en-US/tools
 * http://blog.iangilman.com/2015/02/self-this.html
