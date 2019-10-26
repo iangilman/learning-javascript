@@ -9,9 +9,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * https://www.khanacademy.org/cs/programming
 * https://dash.generalassemb.ly/
-* http://www.codecademy.com/tracks/javascript
-* http://www.codecademy.com/tracks/web
-* http://www.codecademy.com/tracks/jquery
+* https://www.codecademy.com/catalog/language/javascript
 * http://www.jsdares.com/
 * http://nodeschool.io/
 * https://github.com/liammclennan/JavaScript-Koans
