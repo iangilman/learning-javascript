@@ -25,6 +25,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.codewars.com/
 * https://script-8.github.io/
 * https://learnjavascript.online/
+* https://adventofcode.com/
 * http://flexboxfroggy.com/ (for CSS, not JavaScript)
 
 # Manuals
