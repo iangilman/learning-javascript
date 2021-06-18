@@ -27,6 +27,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://learnjavascript.online/
 * https://adventofcode.com/
 * http://flexboxfroggy.com/ (for CSS, not JavaScript)
+* https://www.codementor.io/javascript-experts
 
 # Manuals
 
@@ -74,6 +75,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://github.com/rdio/api/issues?labels=project+ideas&state=open (music API project ideas; originally for Rdio but applicable to other services)
 * https://www.reddit.com/r/dailyprogrammer/
 * https://www.reddit.com/r/dailyprogrammer_ideas/
+* https://www.codementor.io/projects/javascript
 
 … Or make something pretty for [Arty Widget](http://www.artywidget.com/)! Don't forget to take a look at the [guidelines](https://github.com/pixfabrik/artywidget/wiki/Artwork-Guidelines).
 
