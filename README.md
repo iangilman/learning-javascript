@@ -19,7 +19,6 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://www.javascript.com/resources
 * http://learnxinyminutes.com/docs/javascript
 * https://javascript30.com/
-* https://watchandcode.com/p/practical-javascript
 * https://www.freecodecamp.org/
 * https://coderbyte.com/
 * https://www.codewars.com/
@@ -48,7 +47,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
 * [Thoughts about differences in individual productivity in software engineering](https://medium.com/@cramforce/ive-lately-been-thinking-about-what-patterns-could-explain-perceived-differences-in-productivity-77d1f52f1527)
 * https://www.reddit.com/r/LearnJavaScript
-* [How to get faster pull request reviews](https://github.com/kubernetes/kubernetes/blob/master/docs/devel/faster_reviews.md)
+* [How to get faster pull request reviews](https://gitcode.net/mirrors/kubernetes/kubernetes/-/blob/92635e23dfafb2ddc828c8ac6c03c7a7205a84d8/docs/devel/faster_reviews.md?from_codechina=yes)
 
 # Code to Fiddle With
 
@@ -56,10 +55,9 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://wavepot.com/
 * https://github.com/iangilman/js-toys
 * https://github.com/iangilman/simple-webapp-boilerplate
-* http://www.ellipsetours.com/demos/
 * https://www.khanacademy.org/profile/iangilman/programs
 * https://www.khanacademy.org/cs/browse-programs
-* https://github.com/openseadragon/openseadragon/issues?labels=good+first+bug&page=1&state=open
+* https://github.com/openseadragon/openseadragon/issues?q=bug+label%3A%22good+first+issue%22+
 * https://github.com/kylestetz/lissajous
 * http://rectangleworld.com/blog/
 * http://rileyjshaw.com/terra/
@@ -70,7 +68,6 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 
 * http://codeboom.wordpress.com/2012/07/30/10-mini-programming-projects/
 * http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-* http://ideasource.blankdots.com/
 * https://github.com/rdio/api/issues?labels=project+ideas&state=open (music API project ideas; originally for Rdio but applicable to other services)
 * https://www.reddit.com/r/dailyprogrammer/
 * https://www.reddit.com/r/dailyprogrammer_ideas/
@@ -117,7 +114,6 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * http://up-for-grabs.net/
 * https://yourfirstpr.github.io/
 * http://24pullrequests.com/
-* https://openhatch.org/
 * https://www.codetriage.com/
 * https://github.com/MunGell/awesome-for-beginners#javascript
 * https://contributor.ninja/
@@ -139,8 +135,6 @@ Also, I manage these two projects, and gladly welcome new contributors!
 
 # For Kids
 
-* [Apps To Get Your Kids Coding On The iPad, Part 1](http://ipadinsight.com/ipad-in-education-2/apps-to-get-your-kids-coding-on-the-ipad-part-1/)
-* [Apps To Get Your Kids Coding On The iPad, Part 2](http://ipadinsight.com/ipad-app-reviews/apps-to-get-your-kids-coding-on-the-ipad-part-2/)
 * http://coderdojo.com/
 * http://scratch.mit.edu/ and http://makomatic.com/dojo/exercises.html
 * http://www.thinkfun.com/robotturtles/
@@ -149,5 +143,4 @@ Also, I manage these two projects, and gladly welcome new contributors!
 
 * [Another list of JavaScript resources](https://gist.github.com/unkillbob/7090664)
 * [Seattle JS Hackers' resource list](https://github.com/SeattleJSHackers/seattlejshackers/blob/master/README.md)
-* [Resource list from JavaScript group on Facebook](https://www.facebook.com/notes/javascript/resources-for-learning-javascript/10151409218055343/)
 * https://coderdojo.com/resources/
