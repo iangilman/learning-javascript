@@ -119,6 +119,7 @@ Here, I'm collecting a number of links to useful resources for learning JavaScri
 * https://contributor.ninja/
 * https://opensource.guide/how-to-contribute/
 * https://github.com/trending/javascript
+* https://goodfirstissue.dev/
 
 Also, I manage these two projects, and gladly welcome new contributors!
 
